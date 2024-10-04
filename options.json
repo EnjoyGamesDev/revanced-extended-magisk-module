@@ -5,7 +5,7 @@
     "options": [
       {
         "key": "Shorts",
-        "value": "true"
+        "value": true
       }
     ]
   },

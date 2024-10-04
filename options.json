@@ -14,7 +14,7 @@
     "options": [
       {
         "key": "ApplyToAll",
-        "value": "true"
+        "value": true
       }
     ]
   }

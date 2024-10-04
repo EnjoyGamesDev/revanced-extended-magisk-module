@@ -1,14 +1,4 @@
-        
 [
-  {
-    "patchName": "Hide shortcuts",
-    "options": [
-      {
-        "key": "Shorts",
-        "value": true
-      }
-    ]
-  },
   {
     "patchName": "Visual preferences icons for YouTube",
     "options": [

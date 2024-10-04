@@ -13,10 +13,6 @@
     "patchName": "Visual preferences icons for YouTube",
     "options": [
       {
-        "key": "RVXSettingsMenuIcon",
-        "value": "true"
-      },
-      {
         "key": "ApplyToAll",
         "value": "true"
       }

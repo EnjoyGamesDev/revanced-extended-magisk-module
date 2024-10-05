@@ -1,5 +1,14 @@
 [
   {
+    "patchName": "Visual preferences icons for YouTube",
+    "options": [
+      {
+        "key": "ApplyToAll",
+        "value": true
+      }
+    ]
+  },
+  {
     "patchName": "Hide shortcuts",
     "options": [
       {
@@ -9,11 +18,11 @@
     ]
   },
   {
-    "patchName": "Visual preferences icons for YouTube",
+    "patchName": "Custom branding icon for YouTube",
     "options": [
       {
-        "key": "ApplyToAll",
-        "value": true
+        "key": "AppIcon",
+        "value": "revancify_red"
       }
     ]
   }

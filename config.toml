@@ -19,4 +19,4 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon='revancify_red'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"

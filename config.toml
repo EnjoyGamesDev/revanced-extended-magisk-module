@@ -17,7 +17,3 @@ included-patches = ""
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon='revancify_red'"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-
-[Spotify]
-version = "9.0.44.478"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"

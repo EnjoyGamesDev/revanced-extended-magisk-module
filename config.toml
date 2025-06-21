@@ -8,8 +8,7 @@ parallel-jobs = 1
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-cli-source = "inotia00/revanced-cli"
+patches-source = "anddea/revanced-patches"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 excluded-patches = ""

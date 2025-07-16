@@ -8,8 +8,8 @@ parallel-jobs = 1
 
 [YouTube-Extended]
 app-name = "YouTube"
-patches-source = "anddea/revanced-patches"
-rv-brand = "ReVanced Extended"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 build-mode = "module"
 excluded-patches = ""
 included-patches = ""
@@ -19,7 +19,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Music-Extended]
 app-name = "Music"
-patches-source = "anddea/revanced-patches"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 build-mode = "module"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"

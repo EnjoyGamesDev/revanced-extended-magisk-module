@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches 5.7.1)",
-  "versionCode": 28,
-  "zipUrl": "https://github.com/EnjoyGamesDev/revanced-extended-magisk-module/releases/download/28/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches 5.8.1)",
+  "versionCode": 29,
+  "zipUrl": "https://github.com/EnjoyGamesDev/revanced-extended-magisk-module/releases/download/29/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/EnjoyGamesDev/revanced-extended-magisk-module/update/build.md"
 }

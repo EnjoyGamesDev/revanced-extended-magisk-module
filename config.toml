@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube-Extended]
 enabled = false
 app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 arch = "arm64-v8a"
 build-mode = "module"

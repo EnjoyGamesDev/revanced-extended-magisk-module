@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube-Extended]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
@@ -20,6 +20,7 @@ patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_red -e
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Spotify]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 included-patches = "'Custom theme' 'Sanitize sharing links'"
 exclusive-patches = true

@@ -16,8 +16,9 @@ build-mode = "module"
 excluded-patches = ""
 included-patches = "'Custom branding'"
 patcher-args = "-e 'Custom branding icon for YouTube' -OappIcon=revancify_red -e 'Hide shortcuts' -Oshorts=true"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Spotify]
 enabled = false

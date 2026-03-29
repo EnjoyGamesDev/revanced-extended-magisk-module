@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches 3.16.0.rvp)",
-  "versionCode": 36,
-  "zipUrl": "https://github.com/EnjoyGamesDev/revanced-extended-magisk-module/releases/download/36/youtube-revanced-module-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches 4.0.0.mpp)",
+  "versionCode": 37,
+  "zipUrl": "https://github.com/EnjoyGamesDev/revanced-extended-magisk-module/releases/download/37/youtube-revanced-module-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/EnjoyGamesDev/revanced-extended-magisk-module/update/build.md"
 }

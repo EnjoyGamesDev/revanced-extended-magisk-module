@@ -29,4 +29,4 @@ exclusive-patches = true
 enabled = true
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"

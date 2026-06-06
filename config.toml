@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube-Extended]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -26,7 +26,7 @@ included-patches = "'Custom theme' 'Sanitize sharing links'"
 exclusive-patches = true
 
 [Instagram]
-enabled = true
+enabled = false
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
